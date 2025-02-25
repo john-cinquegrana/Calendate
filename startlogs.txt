@@ -1,0 +1,254 @@
+Supabase CLI 2.15.8
+[?25l2025/02/25 14:13:13 Sent Header: Host [api.moby.localhost]
+2025/02/25 14:13:13 Sent Header: User-Agent [Docker-Client/unknown-version (linux)]
+2025/02/25 14:13:13 Send Done
+2025/02/25 14:13:13 Recv First Byte
+2025/02/25 14:13:13 Sent Header: Host [api.moby.localhost]
+2025/02/25 14:13:13 Sent Header: User-Agent [Docker-Client/unknown-version (linux)]
+2025/02/25 14:13:13 Send Done
+⣽ Starting database...[0D2025/02/25 14:13:13 Recv First Byte
+2025/02/25 14:13:13 Sent Header: Host [api.moby.localhost]
+2025/02/25 14:13:13 Sent Header: User-Agent [Docker-Client/unknown-version (linux)]
+2025/02/25 14:13:13 Sent Header: Content-Length [268]
+2025/02/25 14:13:13 Sent Header: Content-Type [application/json]
+2025/02/25 14:13:13 Send Done
+[0D[2K⣻ Starting database...[0D2025/02/25 14:13:13 Recv First Byte
+2025/02/25 14:13:13 Sent Header: Host [api.moby.localhost]
+2025/02/25 14:13:13 Sent Header: User-Agent [Docker-Client/unknown-version (linux)]
+2025/02/25 14:13:13 Sent Header: Content-Length [124]
+2025/02/25 14:13:13 Sent Header: Content-Type [application/json]
+2025/02/25 14:13:13 Send Done
+2025/02/25 14:13:13 Recv First Byte
+2025/02/25 14:13:13 Sent Header: Host [api.moby.localhost]
+2025/02/25 14:13:13 Sent Header: User-Agent [Docker-Client/unknown-version (linux)]
+2025/02/25 14:13:13 Sent Header: Content-Length [128]
+2025/02/25 14:13:13 Sent Header: Content-Type [application/json]
+2025/02/25 14:13:13 Send Done
+[0D[2K⢿ Starting database...[0D2025/02/25 14:13:13 Recv First Byte
+2025/02/25 14:13:13 Sent Header: Host [api.moby.localhost]
+2025/02/25 14:13:13 Sent Header: User-Agent [Docker-Client/unknown-version (linux)]
+2025/02/25 14:13:13 Sent Header: Content-Length [12787]
+2025/02/25 14:13:13 Sent Header: Content-Type [application/json]
+2025/02/25 14:13:13 Send Done
+[0D[2K⡿ Starting database...[0D[0D[2K⣟ Starting database...[0D2025/02/25 14:13:14 Recv First Byte
+2025/02/25 14:13:14 Sent Header: Host [api.moby.localhost]
+2025/02/25 14:13:14 Sent Header: User-Agent [Docker-Client/unknown-version (linux)]
+2025/02/25 14:13:14 Sent Header: Content-Length [0]
+2025/02/25 14:13:14 Send Done
+[0D[2K⣯ Starting database...[0D[0D[2K⣷ Starting database...[0D[0D[2K⣾ Starting database...[0D[0D[2K⣽ Starting database...[0D2025/02/25 14:13:14 Recv First Byte
+2025/02/25 14:13:14 Sent Header: Host [api.moby.localhost]
+2025/02/25 14:13:14 Sent Header: User-Agent [Docker-Client/unknown-version (linux)]
+2025/02/25 14:13:14 Send Done
+2025/02/25 14:13:14 Recv First Byte
+[0D[2K⣻ Starting database...[0D[0D[2K⢿ Starting database...[0D[0D[2K⡿ Starting database...[0D[0D[2K⣟ Starting database...[0D[0D[2K⣯ Starting database...[0D[0D[2K⣷ Starting database...[0D[0D[2K⣾ Starting database...[0D[0D[2K⣽ Starting database...[0D[0D[2K⣻ Starting database...[0D[0D[2K⢿ Starting database...[0D2025/02/25 14:13:15 Sent Header: Host [api.moby.localhost]
+2025/02/25 14:13:15 Sent Header: User-Agent [Docker-Client/unknown-version (linux)]
+2025/02/25 14:13:15 Send Done
+2025/02/25 14:13:15 Recv First Byte
+[0D[2K⡿ Starting database...[0D[0D[2K⣟ Starting database...[0D[0D[2K⣯ Starting database...[0D[0D[2K⣷ Starting database...[0D[0D[2K⣾ Starting database...[0D[0D[2K⣽ Starting database...[0D[0D[2K⣻ Starting database...[0D[0D[2K⢿ Starting database...[0D[0D[2K⡿ Starting database...[0D[0D[2K⣟ Starting database...[0D2025/02/25 14:13:16 Sent Header: Host [api.moby.localhost]
+2025/02/25 14:13:16 Sent Header: User-Agent [Docker-Client/unknown-version (linux)]
+2025/02/25 14:13:16 Send Done
+2025/02/25 14:13:16 Recv First Byte
+[0D[2K⣯ Starting database...[0D[0D[2K⣷ Starting database...[0D[0D[2K⣾ Starting database...[0D[0D[2K⣽ Starting database...[0D[0D[2K⣻ Starting database...[0D[0D[2K⢿ Starting database...[0D[0D[2K⡿ Starting database...[0D[0D[2K⣟ Starting database...[0D[0D[2K⣯ Starting database...[0D[0D[2K⣷ Starting database...[0D2025/02/25 14:13:17 Sent Header: Host [api.moby.localhost]
+2025/02/25 14:13:17 Sent Header: User-Agent [Docker-Client/unknown-version (linux)]
+2025/02/25 14:13:17 Send Done
+2025/02/25 14:13:17 Recv First Byte
+[0D[2K⣾ Starting database...[0D[0D[2K⣽ Starting database...[0D[0D[2K⣻ Starting database...[0D[0D[2K⢿ Starting database...[0D[0D[2K⡿ Starting database...[0D[0D[2K⣟ Starting database...[0D[0D[2K⣯ Starting database...[0D[0D[2K⣷ Starting database...[0D[0D[2K⣾ Starting database...[0D[0D[2K⣽ Starting database...[0D2025/02/25 14:13:18 Sent Header: Host [api.moby.localhost]
+2025/02/25 14:13:18 Sent Header: User-Agent [Docker-Client/unknown-version (linux)]
+2025/02/25 14:13:18 Send Done
+2025/02/25 14:13:18 Recv First Byte
+[0D[2K⣻ Starting database...[0D[0D[2K⢿ Starting database...[0D[0D[2K⡿ Starting database...[0D[0D[2K⣟ Starting database...[0D[0D[2K⣯ Starting database...[0D[0D[2K⣷ Starting database...[0D[0D[2K⣾ Starting database...[0D[0D[2K⣽ Starting database...[0D[0D[2K⣻ Starting database...[0D[0D[2K⢿ Starting database...[0D2025/02/25 14:13:19 Sent Header: Host [api.moby.localhost]
+2025/02/25 14:13:19 Sent Header: User-Agent [Docker-Client/unknown-version (linux)]
+2025/02/25 14:13:19 Send Done
+2025/02/25 14:13:19 Recv First Byte
+[0D[2K⡿ Starting database...[0D[0D[2K⣟ Starting database...[0D[0D[2K⣯ Starting database...[0D[0D[2K⣷ Starting database...[0D[0D[2K⣾ Starting database...[0D[0D[2K⣽ Starting database...[0D[0D[2K⣻ Starting database...[0D[0D[2K⢿ Starting database...[0D[0D[2K⡿ Starting database...[0D[0D[2K⣟ Starting database...[0D2025/02/25 14:13:20 Sent Header: Host [api.moby.localhost]
+2025/02/25 14:13:20 Sent Header: User-Agent [Docker-Client/unknown-version (linux)]
+2025/02/25 14:13:20 Send Done
+2025/02/25 14:13:20 Recv First Byte
+[0D[2K⣯ Starting database...[0D[0D[2K⣷ Starting database...[0D[0D[2K⣾ Starting database...[0D[0D[2K⣽ Starting database...[0D[0D[2K⣻ Starting database...[0D[0D[2K⢿ Starting database...[0D[0D[2K⡿ Starting database...[0D[0D[2K⣟ Starting database...[0D[0D[2K⣯ Starting database...[0D[0D[2K⣷ Starting database...[0D2025/02/25 14:13:21 Sent Header: Host [api.moby.localhost]
+2025/02/25 14:13:21 Sent Header: User-Agent [Docker-Client/unknown-version (linux)]
+2025/02/25 14:13:21 Send Done
+2025/02/25 14:13:21 Recv First Byte
+[0D[2K⣾ Starting database...[0D[0D[2K⣽ Starting database...[0D[0D[2K⣻ Starting database...[0D[0D[2K⢿ Starting database...[0D[0D[2K⡿ Starting database...[0D[0D[2K⣟ Starting database...[0D[0D[2K⣯ Starting database...[0D[0D[2K⣷ Starting database...[0D[0D[2K⣾ Starting database...[0D[0D[2K⣽ Starting database...[0D2025/02/25 14:13:22 Sent Header: Host [api.moby.localhost]
+2025/02/25 14:13:22 Sent Header: User-Agent [Docker-Client/unknown-version (linux)]
+2025/02/25 14:13:22 Send Done
+2025/02/25 14:13:22 Recv First Byte
+[0D[2K⣻ Starting database...[0D[0D[2K⢿ Starting database...[0D[0D[2K⡿ Starting database...[0D[0D[2K⣟ Starting database...[0D[0D[2K⣯ Starting database...[0D[0D[2K⣷ Starting database...[0D[0D[2K⣾ Starting database...[0D[0D[2K⣽ Starting database...[0D[0D[2K⣻ Starting database...[0D[0D[2K⢿ Starting database...[0D2025/02/25 14:13:23 Sent Header: Host [api.moby.localhost]
+2025/02/25 14:13:23 Sent Header: User-Agent [Docker-Client/unknown-version (linux)]
+2025/02/25 14:13:23 Send Done
+2025/02/25 14:13:23 Recv First Byte
+[0D[2K⡿ Starting database...[0D[0D[2K⣟ Starting database...[0D[0D[2K⣯ Starting database...[0D[0D[2K⣷ Starting database...[0D[0D[2K⣾ Starting database...[0D[0D[2K⣽ Starting database...[0D[0D[2K⣻ Starting database...[0D[0D[2K⢿ Starting database...[0D[0D[2K⡿ Starting database...[0D[0D[2K⣟ Starting database...[0D2025/02/25 14:13:24 Sent Header: Host [api.moby.localhost]
+2025/02/25 14:13:24 Sent Header: User-Agent [Docker-Client/unknown-version (linux)]
+2025/02/25 14:13:24 Send Done
+2025/02/25 14:13:24 Recv First Byte
+2025/02/25 14:13:24 Connect Start: tcp 127.0.0.1:54322
+2025/02/25 14:13:24 Connect Done: tcp 127.0.0.1:54322
+2025/02/25 14:13:24 PG Send: {"Type":"StartupMessage","ProtocolVersion":196608,"Parameters":{"database":"postgres","user":"postgres"}}
+2025/02/25 14:13:24 PG Recv: {"Type":"AuthenticationSASL","AuthMechanisms":["SCRAM-SHA-256"]}
+2025/02/25 14:13:24 PG Send: {"Type":"SASLInitialResponse","AuthMechanism":"SCRAM-SHA-256","Data":"n,,n=,r=AEk3/FLxO1qiNyv1220MvRs+"}
+2025/02/25 14:13:24 PG Recv: {"Type":"AuthenticationSASLContinue","Data":"r=AEk3/FLxO1qiNyv1220MvRs+amKthtl0fQPsYYLyup9gHNW4,s=N7AnPwKo57S00DiQRbwmNw==,i=4096"}
+2025/02/25 14:13:24 PG Send: {"Type":"SASLResponse","Data":"c=biws,r=AEk3/FLxO1qiNyv1220MvRs+amKthtl0fQPsYYLyup9gHNW4,p=jIKJVYffBCQ2xQYYuLuowL3AbNsXjVt0ikOyGButWjQ="}
+2025/02/25 14:13:24 PG Recv: {"Type":"AuthenticationSASLFinal","Data":"v=wIcPuHbDMBssYDxXn5zNDKnyIb68uHdWvzTDdBH5M6A="}
+2025/02/25 14:13:24 PG Recv: {"Type":"AuthenticationOK"}
+2025/02/25 14:13:24 PG Recv: {"Type":"ParameterStatus","Name":"application_name","Value":""}
+2025/02/25 14:13:24 PG Recv: {"Type":"ParameterStatus","Name":"client_encoding","Value":"UTF8"}
+2025/02/25 14:13:24 PG Recv: {"Type":"ParameterStatus","Name":"DateStyle","Value":"ISO, MDY"}
+2025/02/25 14:13:24 PG Recv: {"Type":"ParameterStatus","Name":"default_transaction_read_only","Value":"off"}
+2025/02/25 14:13:24 PG Recv: {"Type":"ParameterStatus","Name":"in_hot_standby","Value":"off"}
+2025/02/25 14:13:24 PG Recv: {"Type":"ParameterStatus","Name":"integer_datetimes","Value":"on"}
+2025/02/25 14:13:24 PG Recv: {"Type":"ParameterStatus","Name":"IntervalStyle","Value":"postgres"}
+2025/02/25 14:13:24 PG Recv: {"Type":"ParameterStatus","Name":"is_superuser","Value":"off"}
+2025/02/25 14:13:24 PG Recv: {"Type":"ParameterStatus","Name":"server_encoding","Value":"UTF8"}
+2025/02/25 14:13:24 PG Recv: {"Type":"ParameterStatus","Name":"server_version","Value":"15.8"}
+2025/02/25 14:13:24 PG Recv: {"Type":"ParameterStatus","Name":"session_authorization","Value":"postgres"}
+2025/02/25 14:13:24 PG Recv: {"Type":"ParameterStatus","Name":"standard_conforming_strings","Value":"on"}
+2025/02/25 14:13:24 PG Recv: {"Type":"ParameterStatus","Name":"TimeZone","Value":"UTC"}
+2025/02/25 14:13:24 PG Recv: {"Type":"BackendKeyData","ProcessID":191,"SecretKey":3563599032}
+2025/02/25 14:13:24 PG Recv: {"Type":"ReadyForQuery","TxStatus":"I"}
+2025/02/25 14:13:24 Sent Header: Host [api.moby.localhost]
+2025/02/25 14:13:24 Sent Header: User-Agent [Docker-Client/unknown-version (linux)]
+2025/02/25 14:13:24 Send Done
+[0D[2K⣟ Initialising schema...[0D2025/02/25 14:13:24 Recv First Byte
+2025/02/25 14:13:24 Sent Header: Host [api.moby.localhost]
+2025/02/25 14:13:24 Sent Header: User-Agent [Docker-Client/unknown-version (linux)]
+2025/02/25 14:13:24 Sent Header: Content-Length [268]
+2025/02/25 14:13:24 Sent Header: Content-Type [application/json]
+2025/02/25 14:13:24 Send Done
+[0D[2K⣯ Initialising schema...[0D2025/02/25 14:13:24 Recv First Byte
+2025/02/25 14:13:24 Sent Header: Host [api.moby.localhost]
+2025/02/25 14:13:24 Sent Header: User-Agent [Docker-Client/unknown-version (linux)]
+2025/02/25 14:13:24 Sent Header: Content-Length [2395]
+2025/02/25 14:13:24 Sent Header: Content-Type [application/json]
+2025/02/25 14:13:24 Send Done
+[0D[2K⣷ Initialising schema...[0D2025/02/25 14:13:24 Recv First Byte
+2025/02/25 14:13:24 Sent Header: Host [api.moby.localhost]
+2025/02/25 14:13:24 Sent Header: User-Agent [Docker-Client/unknown-version (linux)]
+2025/02/25 14:13:24 Sent Header: Content-Length [0]
+2025/02/25 14:13:24 Send Done
+[0D[2K⣾ Initialising schema...[0D[0D[2K⣽ Initialising schema...[0D[0D[2K⣻ Initialising schema...[0D[0D[2K⢿ Initialising schema...[0D2025/02/25 14:13:25 Recv First Byte
+2025/02/25 14:13:25 Sent Header: Host [api.moby.localhost]
+2025/02/25 14:13:25 Sent Header: User-Agent [Docker-Client/unknown-version (linux)]
+2025/02/25 14:13:25 Send Done
+2025/02/25 14:13:25 Recv First Byte
++ ulimit -n
++ '[' '!' -z '' ']'
++ export ERL_CRASH_DUMP=/tmp/erl_crash.dump
++ ERL_CRASH_DUMP=/tmp/erl_crash.dump
++ '[' false = true ']'
++ echo 'Running migrations'
++ sudo -E -u nobody /app/bin/migrate
+[0D[2K⡿ Initialising schema...[0D[0D[2K⣟ Initialising schema...[0D[0D[2K⣯ Initialising schema...[0D[0D[2K⣷ Initialising schema...[0D[0D[2K⣾ Initialising schema...[0D[0D[2K⣽ Initialising schema...[0D[0D[2K⣻ Initialising schema...[0D[0D[2K⢿ Initialising schema...[0D[0D[2K⡿ Initialising schema...[0D[0D[2K⣟ Initialising schema...[0D[0D[2K⣯ Initialising schema...[0D[0D[2K⣷ Initialising schema...[0D[0D[2K⣾ Initialising schema...[0D[0D[2K⣽ Initialising schema...[0D[0D[2K⣻ Initialising schema...[0D[0D[2K⢿ Initialising schema...[0D[0D[2K⡿ Initialising schema...[0D[0D[2K⣟ Initialising schema...[0D[0D[2K⣯ Initialising schema...[0D+ '[' true = true ']'
++ echo 'Seeding selfhosted Realtime'
++ sudo -E -u nobody /app/bin/realtime eval 'Realtime.Release.seeds(Realtime.Repo)'
+[0D[2K⣷ Initialising schema...[0D[0D[2K⣾ Initialising schema...[0D[0D[2K⣽ Initialising schema...[0D[0D[2K⣻ Initialising schema...[0D[0D[2K⢿ Initialising schema...[0D[0D[2K⡿ Initialising schema...[0D[0D[2K⣟ Initialising schema...[0D[0D[2K⣯ Initialising schema...[0D[0D[2K⣷ Initialising schema...[0D[0D[2K⣾ Initialising schema...[0D+ echo 'Starting Realtime'
++ ulimit -n
++ exec /app/bin/realtime eval '{:ok, _} = Application.ensure_all_started(:realtime)
+{:ok, _} = Realtime.Tenants.health_check("realtime-dev")'
+[0D[2K⣽ Initialising schema...[0D[0D[2K⣻ Initialising schema...[0D[0D[2K⢿ Initialising schema...[0D[0D[2K⡿ Initialising schema...[0D[0D[2K⣟ Initialising schema...[0D[0D[2K⣯ Initialising schema...[0D[0D[2K⣷ Initialising schema...[0D[0D[2K⣾ Initialising schema...[0D[0D[2K⣽ Initialising schema...[0D[0D[2K⣻ Initialising schema...[0D[0D[2K⢿ Initialising schema...[0D[0D[2K⡿ Initialising schema...[0D[0D[2K⣟ Initialising schema...[0D[0D[2K⣯ Initialising schema...[0D[0D[2K⣷ Initialising schema...[0D[0D[2K⣾ Initialising schema...[0D[0D[2K⣽ Initialising schema...[0D[0D[2K⣻ Initialising schema...[0D[0D[2K⢿ Initialising schema...[0D[0D[2K⡿ Initialising schema...[0D[0D[2K⣟ Initialising schema...[0D[0D[2K⣯ Initialising schema...[0D[0D[2K⣷ Initialising schema...[0D[0D[2K⣾ Initialising schema...[0D[0D[2K⣽ Initialising schema...[0D[0D[2K⣻ Initialising schema...[0D[0D[2K⢿ Initialising schema...[0D[0D[2K⡿ Initialising schema...[0D[os_mon] memory supervisor port (memsup): Erlang has closed
+[os_mon] cpu supervisor port (cpu_sup): Erlang has closed
+2025/02/25 14:13:31 Sent Header: Host [api.moby.localhost]
+2025/02/25 14:13:31 Sent Header: User-Agent [Docker-Client/unknown-version (linux)]
+2025/02/25 14:13:31 Send Done
+[0D[2K⣟ Initialising schema...[0D2025/02/25 14:13:31 Recv First Byte
+[0D[2K⣯ Initialising schema...[0D2025/02/25 14:13:31 Sent Header: Host [api.moby.localhost]
+2025/02/25 14:13:31 Sent Header: User-Agent [Docker-Client/unknown-version (linux)]
+2025/02/25 14:13:31 Send Done
+2025/02/25 14:13:31 Recv First Byte
+2025/02/25 14:13:31 Sent Header: Host [api.moby.localhost]
+2025/02/25 14:13:31 Sent Header: User-Agent [Docker-Client/unknown-version (linux)]
+2025/02/25 14:13:31 Sent Header: Content-Length [268]
+2025/02/25 14:13:31 Sent Header: Content-Type [application/json]
+2025/02/25 14:13:31 Send Done
+2025/02/25 14:13:31 Recv First Byte
+2025/02/25 14:13:31 Sent Header: Host [api.moby.localhost]
+2025/02/25 14:13:31 Sent Header: User-Agent [Docker-Client/unknown-version (linux)]
+2025/02/25 14:13:31 Sent Header: Content-Length [2376]
+2025/02/25 14:13:31 Sent Header: Content-Type [application/json]
+2025/02/25 14:13:31 Send Done
+[0D[2K⣷ Initialising schema...[0D[0D[2K⣾ Initialising schema...[0D2025/02/25 14:13:31 Recv First Byte
+2025/02/25 14:13:31 Sent Header: Host [api.moby.localhost]
+2025/02/25 14:13:31 Sent Header: User-Agent [Docker-Client/unknown-version (linux)]
+2025/02/25 14:13:31 Sent Header: Content-Length [0]
+2025/02/25 14:13:31 Send Done
+[0D[2K⣽ Initialising schema...[0D[0D[2K⣻ Initialising schema...[0D[0D[2K⢿ Initialising schema...[0D2025/02/25 14:13:31 Recv First Byte
+2025/02/25 14:13:31 Sent Header: Host [api.moby.localhost]
+2025/02/25 14:13:31 Sent Header: User-Agent [Docker-Client/unknown-version (linux)]
+2025/02/25 14:13:31 Send Done
+2025/02/25 14:13:31 Recv First Byte
+[0D[2K⡿ Initialising schema...[0D[0D[2K⣟ Initialising schema...[0D[0D[2K⣯ Initialising schema...[0D[0D[2K⣷ Initialising schema...[0D[0D[2K⣾ Initialising schema...[0D[0D[2K⣽ Initialising schema...[0D[0D[2K⣻ Initialising schema...[0D[0D[2K⢿ Initialising schema...[0D[0D[2K⡿ Initialising schema...[0D[0D[2K⣟ Initialising schema...[0D[0D[2K⣯ Initialising schema...[0D[0D[2K⣷ Initialising schema...[0D[0D[2K⣾ Initialising schema...[0D[0D[2K⣽ Initialising schema...[0D[0D[2K⣻ Initialising schema...[0D2025/02/25 14:13:33 Sent Header: Host [api.moby.localhost]
+2025/02/25 14:13:33 Sent Header: User-Agent [Docker-Client/unknown-version (linux)]
+2025/02/25 14:13:33 Send Done
+[0D[2K⢿ Initialising schema...[0D2025/02/25 14:13:33 Recv First Byte
+2025/02/25 14:13:33 Sent Header: Host [api.moby.localhost]
+2025/02/25 14:13:33 Sent Header: User-Agent [Docker-Client/unknown-version (linux)]
+2025/02/25 14:13:33 Send Done
+2025/02/25 14:13:33 Recv First Byte
+2025/02/25 14:13:33 Sent Header: Host [api.moby.localhost]
+2025/02/25 14:13:33 Sent Header: User-Agent [Docker-Client/unknown-version (linux)]
+2025/02/25 14:13:33 Sent Header: Content-Length [268]
+2025/02/25 14:13:33 Sent Header: Content-Type [application/json]
+2025/02/25 14:13:33 Send Done
+2025/02/25 14:13:33 Recv First Byte
+2025/02/25 14:13:33 Sent Header: Host [api.moby.localhost]
+2025/02/25 14:13:33 Sent Header: User-Agent [Docker-Client/unknown-version (linux)]
+2025/02/25 14:13:33 Sent Header: Content-Length [1989]
+2025/02/25 14:13:33 Sent Header: Content-Type [application/json]
+2025/02/25 14:13:33 Send Done
+[0D[2K⡿ Initialising schema...[0D[0D[2K⣟ Initialising schema...[0D2025/02/25 14:13:33 Recv First Byte
+2025/02/25 14:13:33 Sent Header: Host [api.moby.localhost]
+2025/02/25 14:13:33 Sent Header: User-Agent [Docker-Client/unknown-version (linux)]
+2025/02/25 14:13:33 Sent Header: Content-Length [0]
+2025/02/25 14:13:33 Send Done
+[0D[2K⣯ Initialising schema...[0D[0D[2K⣷ Initialising schema...[0D[0D[2K⣾ Initialising schema...[0D2025/02/25 14:13:33 Recv First Byte
+2025/02/25 14:13:33 Sent Header: Host [api.moby.localhost]
+2025/02/25 14:13:33 Sent Header: User-Agent [Docker-Client/unknown-version (linux)]
+2025/02/25 14:13:33 Send Done
+2025/02/25 14:13:33 Recv First Byte
+[0D[2K⣽ Initialising schema...[0D[0D[2K⣻ Initialising schema...[0D[0D[2K⢿ Initialising schema...[0D[0D[2K⡿ Initialising schema...[0D[0D[2K⣟ Initialising schema...[0D[0D[2K⣯ Initialising schema...[0D[0D[2K⣷ Initialising schema...[0D[0D[2K⣾ Initialising schema...[0D[0D[2K⣽ Initialising schema...[0D2025/02/25 14:13:34 Sent Header: Host [api.moby.localhost]
+2025/02/25 14:13:34 Sent Header: User-Agent [Docker-Client/unknown-version (linux)]
+2025/02/25 14:13:34 Send Done
+[0D[2K⣻ Initialising schema...[0D2025/02/25 14:13:34 Recv First Byte
+Seeding globals from roles.sql...
+WARN: no files matched pattern: supabase/seed.sql
+2025/02/25 14:13:34 Sent Header: Host [api.moby.localhost]
+2025/02/25 14:13:34 Sent Header: User-Agent [Docker-Client/unknown-version (linux)]
+2025/02/25 14:13:34 Send Done
+2025/02/25 14:13:34 PG Send: {"Type":"Terminate"}
+[0D[2K⣻ Starting containers...[0D[0D[2K⢿ Starting containers...[0D2025/02/25 14:13:34 Recv First Byte
+2025/02/25 14:13:34 Sent Header: Host [api.moby.localhost]
+2025/02/25 14:13:34 Sent Header: User-Agent [Docker-Client/unknown-version (linux)]
+2025/02/25 14:13:34 Sent Header: Content-Length [268]
+2025/02/25 14:13:34 Sent Header: Content-Type [application/json]
+2025/02/25 14:13:34 Send Done
+2025/02/25 14:13:34 Recv First Byte
+2025/02/25 14:13:34 Sent Header: Host [api.moby.localhost]
+2025/02/25 14:13:34 Sent Header: User-Agent [Docker-Client/unknown-version (linux)]
+2025/02/25 14:13:34 Sent Header: Content-Length [2884]
+2025/02/25 14:13:34 Sent Header: Content-Type [application/json]
+2025/02/25 14:13:34 Send Done
+[0D[2K⡿ Starting containers...[0D2025/02/25 14:13:35 Recv First Byte
+2025/02/25 14:13:35 Sent Header: Host [api.moby.localhost]
+2025/02/25 14:13:35 Sent Header: User-Agent [Docker-Client/unknown-version (linux)]
+2025/02/25 14:13:35 Sent Header: Content-Length [0]
+2025/02/25 14:13:35 Send Done
+[0D[2K⣟ Starting containers...[0D[0D[2K⣯ Starting containers...[0D[0D[2K⣷ Starting containers...[0D[0D[2K⣾ Starting containers...[0D2025/02/25 14:13:35 Recv First Byte
+2025/02/25 14:13:35 Sent Header: Host [api.moby.localhost]
+2025/02/25 14:13:35 Sent Header: User-Agent [Docker-Client/unknown-version (linux)]
+2025/02/25 14:13:35 Send Done
+2025/02/25 14:13:35 Recv First Byte
+2025/02/25 14:13:35 Sent Header: Host [api.moby.localhost]
+2025/02/25 14:13:35 Sent Header: User-Agent [Docker-Client/unknown-version (linux)]
+2025/02/25 14:13:35 Sent Header: Content-Length [268]
+2025/02/25 14:13:35 Sent Header: Content-Type [application/json]
+2025/02/25 14:13:35 Send Done
+2025/02/25 14:13:35 Recv First Byte
+2025/02/25 14:13:35 Sent Header: Host [api.moby.localhost]
+2025/02/25 14:13:35 Sent Header: User-Agent [Docker-Client/unknown-version (linux)]
+2025/02/25 14:13:35 Sent Header: Content-Length [9699]
+2025/02/25 14:13:35 Sent Header: Content-Type [application/json]
+2025/02/25 14:13:35 Send Done
+[0D[2K⣽ Starting containers...[0D2025/02/25 14:13:35 Recv First Byte
+[2K[?25h[?1002l[?1003l[?1006lStopping containers...
+Pruned containers: [e358f5950a461eb901ad9045fae1324e4a70ac2a34798fa3ec96185ab5b2cfd3 34d424d2382fe8bb52a9b0dab6ff36914333b6a11d6379025f352505d0a28743 65859a195c6424338781058d0b424322e1c48df608af72b105f2b916109c07c2]
+Pruned volumes: [supabase_db_Calendate supabase_config_Calendate]
+Pruned network: [supabase_network_Calendate]
+failed to create docker container: Error response from daemon: Conflict. The container name "/supabase_vector_Calendate" is already in use by container "65859a195c6424338781058d0b424322e1c48df608af72b105f2b916109c07c2". You have to remove (or rename) that container to be able to reuse that name.
