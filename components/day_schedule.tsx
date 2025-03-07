@@ -8,36 +8,49 @@ interface DayScheduleProps {
 }
 
 const DaySchedule: React.FC<DayScheduleProps> = ({ startTime, endTime }) => {
-	const [selectedTimes, setSelectedTimes] = useState<string[]>([]);
+	const [selectedTimes, setSelectedTimes] = useState<boolean[]>(() => {
+		let current = new Date(`1970-01-01T${startTime}:00`);
+		const endDate = new Date(`1970-01-01T${endTime}:00`);
+
+		const diffInMs = endDate.getTime() - current.getTime();
+		const numberOfIntervals = diffInMs / (15 * 60 * 1000);
+
+		return new Array(numberOfIntervals).fill(false);
+	});
+
+	function addTimeByIndex(index: number, newValue: boolean): void {
+		let newSelectedTimes = [...selectedTimes];
+		newSelectedTimes[index] = newValue;
+		setSelectedTimes(newSelectedTimes);
+	}
+
+	function addTimesByIndex(indexes: number[], newValue: boolean): void {
+		let newSelectedTimes = [...selectedTimes];
+		indexes.forEach((index) => {
+			newSelectedTimes[index] = newValue;
+		});
+		setSelectedTimes(newSelectedTimes);
+	}
+
 	const [isDragging, setIsDragging] = useState(false);
 	const startRef = useRef<number | null>(null);
 	const endRef = useRef<number | null>(null);
+	const isAdding = useRef<boolean | null>(null);
 	const scheduleRef = useRef<HTMLDivElement>(null);
-
-	const generateTimeSlots = (start: string, end: string) => {
-		const slots = [];
-		let current = new Date(`1970-01-01T${start}:00`);
-		const endDate = new Date(`1970-01-01T${end}:00`);
-
-		while (current <= endDate) {
-			slots.push(current.toTimeString().slice(0, 5));
-			current.setMinutes(current.getMinutes() + 15);
-		}
-
-		return slots;
-	};
 
 	const handleMouseDown = (index: number) => {
 		setIsDragging(true);
 		startRef.current = index;
 		endRef.current = index;
-		setSelectedTimes([timeSlots[index]]);
+		isAdding.current = !selectedTimes[index];
+		addTimeByIndex(index, isAdding.current);
 	};
 
 	const handleMouseUp = () => {
 		setIsDragging(false);
 		startRef.current = null;
 		endRef.current = null;
+		isAdding.current = null;
 	};
 
 	const handleMouseMove = (index: number) => {
@@ -45,8 +58,11 @@ const DaySchedule: React.FC<DayScheduleProps> = ({ startTime, endTime }) => {
 			endRef.current = index;
 			const startIndex = Math.min(startRef.current, endRef.current);
 			const endIndex = Math.max(startRef.current, endRef.current);
-			const newSelectedTimes = timeSlots.slice(startIndex, endIndex + 1);
-			setSelectedTimes(newSelectedTimes);
+			const indexes = Array.from(
+				{ length: endIndex - startIndex + 1 },
+				(_, i) => startIndex + i,
+			);
+			addTimesByIndex(indexes, isAdding.current!);
 		}
 	};
 
@@ -84,19 +100,17 @@ const DaySchedule: React.FC<DayScheduleProps> = ({ startTime, endTime }) => {
 		};
 	}, [isDragging]);
 
-	const timeSlots = generateTimeSlots(startTime, endTime);
-
 	return (
 		<div
 			ref={scheduleRef}
 			className='flex flex-col w-24'
 		>
-			{timeSlots.map((time, index) => (
+			{selectedTimes.map((isSelected, index) => (
 				<div
-					key={time}
+					key={index}
 					data-index={index}
 					className={`time-slot flex items-center justify-center cursor-pointer h-4 ${
-						selectedTimes.includes(time) ? 'bg-blue-200' : ''
+						selectedTimes[index] ? 'bg-blue-200' : ''
 					}`}
 					onMouseDown={() => handleMouseDown(index)}
 					style={{
@@ -106,7 +120,9 @@ const DaySchedule: React.FC<DayScheduleProps> = ({ startTime, endTime }) => {
 								: '1px solid lightgray',
 					}}
 				>
-					{index % 4 === 0 && <span className='text-xs'>{time}</span>}
+					{index % 4 === 0 && (
+						<span className='text-xs'>{isSelected}</span>
+					)}
 				</div>
 			))}
 		</div>
