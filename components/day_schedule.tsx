@@ -116,7 +116,7 @@ const DaySchedule: React.FC<DayScheduleProps> = ({ startTime, endTime }) => {
 					style={{
 						borderTop:
 							index % 4 === 0
-								? '2px solid black'
+								? '2px solid gray'
 								: '1px solid lightgray',
 					}}
 				>
